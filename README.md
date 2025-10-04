@@ -6,19 +6,22 @@
 
 ## ⚠️ LEGAL DISCLAIMER AND RESEARCH STATUS
 
-**THIS IS PURELY THEORETICAL RESEARCH - NOT FOR PRACTICAL USE**
+**🚫 THIS IS PURELY THEORETICAL RESEARCH - NOT FOR PRACTICAL USE**
 
 ### 🚫 STRICT LEGAL WARNINGS
 - ❌ **NO WARRANTIES** of any kind, express or implied
-- ❌ **NO LIABILITY** for any damages, losses, or legal issues
+- ❌ **NO LIABILITY** for any damages, losses, or legal issues  
 - ❌ **NOT** security-audited, cryptographically verified, or production-ready
 - ❌ **NOT** recommended for protecting any information or systems
-- ❌ **ACADEMIC DISCUSSION ONLY** - conceptual framework without implementations
 - ❌ **NO TECHNICAL SUPPORT** or ongoing development
 
+### 📚 Permitted Use Only
+- ✅ **ACADEMIC DISCUSSION** - conceptual framework without implementations
+- ✅ **SCIENTIFIC RESEARCH** - theoretical exploration of concepts
+- ✅ **EDUCATIONAL PURPOSES** - understanding foundational principles
+
 ### 🔬 Research Purpose Only
-This repository contains **theoretical academic research** exploring foundational concepts in information theory. 
-All content is provided for academic discussion and scientific inquiry without any representations or warranties regarding:
+This work contains **theoretical academic research** exploring foundational concepts in information theory. All content is provided for academic discussion and scientific inquiry without any representations or warranties regarding:
 
 - **Security**: No security guarantees or protections
 - **Reliability**: No performance or reliability assurances  
