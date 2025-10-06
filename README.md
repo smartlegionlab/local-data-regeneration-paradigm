@@ -111,7 +111,7 @@ This research generalizes concepts from our previous work on [**Pointer-Based Se
 ## 👨‍💻 Author
 
 **Alexander Suvorov**  
-- Email: - [![Email](https://img.shields.io/badge/📧-smartlegionlab@gmail.com-blue)](mailto:smartlegionlab@gmail.com)
+- Email: [![Email](https://img.shields.io/badge/📧-smartlegionlab@gmail.com-blue)](mailto:smartlegionlab@gmail.com)
 
 ## 📜 License
 
