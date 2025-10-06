@@ -108,6 +108,11 @@ This research generalizes concepts from our previous work on [**Pointer-Based Se
 - Information-theoretic limits of local regeneration
 - Quantum and neuromorphic computing applications
 
+## 👨‍💻 Author
+
+**Alexander Suvorov**  
+- Email: - [![Email](https://img.shields.io/badge/📧-smartlegionlab@gmail.com-blue)](mailto:smartlegionlab@gmail.com)
+
 ## 📜 License
 
 Copyright © 2025 Alexander Suvorov. Licensed under Creative Commons Attribution 4.0 International.
