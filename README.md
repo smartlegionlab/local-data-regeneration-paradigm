@@ -4,6 +4,16 @@
 
 ---
 
+## 🎯 Abstract
+
+This work introduces the **Local Data Regeneration Paradigm**, which challenges the fundamental Shannonian model of information transmission. We propose an ontological shift where data is understood not as objects to be transferred, but as states reached by deterministic systems through synchronous application of shared algorithms to coordinated pointers. Communication is redefined as pointer coordination rather than content transmission. The paradigm is formalized through three foundational postulates, with analysis of applicability domains and fundamental implications for information theory and computer science.
+
+**This work presents a theoretical framework requiring extensive validation and further research before practical application.**
+
+Learn more about [Proof Of Concept](https://smartlegionlab.ru/#research) on the website.
+
+---
+
 ## ⚠️ LEGAL DISCLAIMER AND RESEARCH STATUS
 
 **🚫 THIS IS PURELY THEORETICAL RESEARCH - NOT FOR PRACTICAL USE**
@@ -34,12 +44,6 @@ THE SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIN
 THIS RESEARCH IS PROVIDED FOR ACADEMIC DISCUSSION ONLY AND DOES NOT CONSTITUTE PROFESSIONAL ADVICE, SECURITY RECOMMENDATIONS, OR PRACTICAL IMPLEMENTATION GUIDANCE.
 
 ---
-
-## 🎯 Abstract
-
-This work introduces the **Local Data Regeneration Paradigm**, which challenges the fundamental Shannonian model of information transmission. We propose an ontological shift where data is understood not as objects to be transferred, but as states reached by deterministic systems through synchronous application of shared algorithms to coordinated pointers. Communication is redefined as pointer coordination rather than content transmission. The paradigm is formalized through three foundational postulates, with analysis of applicability domains and fundamental implications for information theory and computer science.
-
-**This work presents a theoretical framework requiring extensive validation and further research before practical application.**
 
 ## 📚 Research Publication
 
