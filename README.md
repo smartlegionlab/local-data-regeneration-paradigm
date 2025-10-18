@@ -10,7 +10,15 @@ This work introduces the **Local Data Regeneration Paradigm**, which challenges 
 
 **This work presents a theoretical framework requiring extensive validation and further research before practical application.**
 
-Learn more about [Proof Of Concept](https://smartlegionlab.ru/#research) on the website.
+---
+
+### Deterministic Game Engine 
+**Practical Implementation of Pointer-Based Security and Local Data Regeneration Paradigms**
+
+This technical report presents experimental validation of theoretical paradigms from author's previous works. A research prototype demonstrates architectural principles enabling infinite world generation, mass NPC simulation, and state verification without data transmission. Experimental results provide concrete evidence supporting theoretical advantages including state access times independent of position index and serverless architecture patterns.
+
+**📄 Paper:** [Zenodo](https://doi.org/10.5281/zenodo.17383447)  
+**💻 Code:** [GitHub Repository](https://github.com/smartlegionlab/deterministic-game-engine-report)
 
 ---
 
