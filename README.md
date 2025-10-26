@@ -80,7 +80,7 @@ THE SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIN
 
 ## 🔗 Connect
 
-- **Website:** https://smartlegionlab.ru
+- **Website:** https://alexander-suvorov.ru
 - **Email:** smartlegionlab@gmail.com
 - **ORCID:** [0009-0006-3427-9611](https://orcid.org/0009-0006-3427-9611)
 
