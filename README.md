@@ -87,3 +87,12 @@ THE SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIN
 ---
 
 *"Sometimes the most efficient communication occurs not through better transmission, but through eliminating the need to transmit."*
+
+## License
+
+This research paper and all accompanying documents are licensed under
+[Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
+
+## Copyright
+
+Copyright © 2025 Alexander Suvorov. Licensed under Creative Commons Attribution 4.0 International.
