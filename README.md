@@ -84,6 +84,40 @@ Fundamental theoretical work proposing an alternative to classical information t
 
 ---
 
+## Cross-Platform Compatibility
+
+smartpasslib produces **identical passwords** to:
+
+| Platform   | Repository                                                                                                                |
+|------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Python     | [smartpasslib](https://github.com/smartlegionlab/smartpasslib)                                                            |
+| JavaScript | [smartpasslib-js](https://github.com/smartlegionlab/smartpasslib-js)                                                      |
+| Kotlin     | [smartpasslib-kotlin](https://github.com/smartlegionlab/smartpasslib-kotlin)                                              |
+| Go         | [smartpasslib-go](https://github.com/smartlegionlab/smartpasslib-go)                                                      |
+| Web        | [Web Manager](https://github.com/smartlegionlab/smart-password-manager-web)                                               |
+| Android    | [Android Manager](https://github.com/smartlegionlab/smart-password-manager-android)                                       |
+| Desktop    | [Desktop Manager](https://github.com/smartlegionlab/smart-password-manager-desktop)                                       |
+| CLI        | [CLI PassMan](https://github.com/smartlegionlab/clipassman) / [CLI PassGen](https://github.com/smartlegionlab/clipassgen) |
+
+---
+
+## Ecosystem
+
+**Core Libraries:**
+- **[smartpasslib](https://github.com/smartlegionlab/smartpasslib)** - Python implementation
+- **[smartpasslib-js](https://github.com/smartlegionlab/smartpasslib-js)** - JavaScript implementation
+- **[smartpasslib-kotlin](https://github.com/smartlegionlab/smartpasslib-kotlin)** - Kotlin implementation
+- **[smartpasslib-go](https://github.com/smartlegionlab/smartpasslib-go)** - Go implementation
+
+**Applications:**
+- **[Desktop Manager](https://github.com/smartlegionlab/smart-password-manager-desktop)** - Cross-platform desktop app
+- **[CLI PassMan](https://github.com/smartlegionlab/clipassman)** - Console password manager
+- **[CLI PassGen](https://github.com/smartlegionlab/clipassgen)** - Console password generator
+- **[Web Manager](https://github.com/smartlegionlab/smart-password-manager-web)** - Web interface
+- **[Android Manager](https://github.com/smartlegionlab/smart-password-manager-android)** - Mobile Android app
+
+---
+
 ## License
 
 This research paper and all accompanying documents are licensed under
