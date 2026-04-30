@@ -27,73 +27,125 @@ Fundamental theoretical work proposing an alternative to classical information t
 
 ---
 
-## Legal Disclaimer & Research Status
+## ⚠️ Legal Disclaimer & Research Status
 
 **ACADEMIC RESEARCH - NOT FOR PRACTICAL USE**
 
 **This is theoretical research, not production software.**
 
+> **Warning:** This work is for academic discussion only. Do not use in production systems.
+
 **Full academic disclaimer:** See [DISCLAIMER.md](DISCLAIMER.md)
 
 ---
 
-## Research Links
+## Publication Details
 
-- **Paper:** [Zenodo](https://doi.org/10.5281/zenodo.17264327)
-- **Code:** [GitHub Repository](https://github.com/smartlegionlab/local-data-regeneration-paradigm)
-- **Article:** [dev.to Technical Deep Dive](https://dev.to/smartlegionlab/the-local-data-regeneration-paradigm-ontological-shift-from-data-transmission-to-synchronous-state-21e)
+| Detail        | Information                                                        |
+|---------------|--------------------------------------------------------------------|
+| **Title**     | The Local Data Regeneration Paradigm                               |
+| **DOI**       | [10.5281/zenodo.17264327](https://doi.org/10.5281/zenodo.17264327) |
+| **Published** | October 4, 2025                                                    |
+| **License**   | Creative Commons Attribution 4.0 International                     |
+| **Author**    | Alexander Suvorov                                                  |
+| **ORCID**     | [0009-0006-3427-9611](https://orcid.org/0009-0006-3427-9611)       |
+| **Type**      | Theoretical Research                                               |
+
+## Download & Access
+
+| Format              | Link                                                                                                                                                               |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 📄 **PDF Download** | [Download from Zenodo](https://zenodo.org/records/17264327/files/suvorov_local_data_regeneration_paradigm.pdf?download=1)                                          |
+| 📖 **Read Online**  | [Zenodo Record](https://doi.org/10.5281/zenodo.17264327)                                                                                                           |
+| 💻 **Source Code**  | [GitHub Repository](https://github.com/smartlegionlab/local-data-regeneration-paradigm)                                                                            |
+| 📰 **Article**      | [dev.to Technical Deep Dive](https://dev.to/smartlegionlab/the-local-data-regeneration-paradigm-ontological-shift-from-data-transmission-to-synchronous-state-21e) |
+
+## Author Information
+
+| Contact     | Information                                                  |
+|-------------|--------------------------------------------------------------|
+| **Name**    | Alexander Suvorov                                            |
+| **Website** | [alexander-suvorov.ru](https://alexander-suvorov.ru)         |
+| **GitHub**  | [smartlegionlab](https://github.com/smartlegionlab)          |
+| **Email**   | smartlegionlab@gmail.com                                     |
+| **ORCID**   | [0009-0006-3427-9611](https://orcid.org/0009-0006-3427-9611) |
 
 ---
 
 ## Foundational Postulates
 
-1. **Data as System State** - Information as computational state rather than transferable object
-2. **Synchronous Local Regeneration** - Identical states reached through shared algorithms: `D = F(S, P)`
-3. **Communication as Pointer Synchronization** - Coordination of discovery coordinates
+| From                        | To                             |
+|-----------------------------|--------------------------------|
+| Data as Transferable Object | Data as System State           |
+| Data Transmission           | Synchronous Local Regeneration |
+| Information Transfer        | Pointer Synchronization        |
+
+### Detailed Postulates
+
+1. **Data as System State**  
+   Information understood as computational state rather than transferable object
+
+2. **Synchronous Local Regeneration**  
+   Identical states reached through shared algorithms: `D = F(S, P)`
+
+3. **Communication as Pointer Synchronization**  
+   Coordination of discovery coordinates rather than data transmission
 
 ---
 
 ## Connected Research
 
-### The Pointer-Based Security Paradigm  
+### Pointer-Based Security Paradigm  
 **Architectural Application of Regeneration Principles**
 
-- **Paper:** [Zenodo](https://doi.org/10.5281/zenodo.17204738)  
+- **Paper:** [Zenodo](https://doi.org/10.5281/zenodo.17204738)
 - **Code:** [GitHub Repository](https://github.com/smartlegionlab/pointer-based-security-paradigm)
+
+### Position-Candidate-Hypothesis (PCH) Paradigm 
+**Position-Candidate-Hypothesis (PCH) is a theoretical paradigm for structural-statistical analysis of NP-complete problems.**
+
+- **Paper:** [Zenodo](https://doi.org/10.5281/zenodo.17614888)
+- **Code:** [GitHub Repository](https://github.com/smartlegionlab/position-candidate-hypothesis-paradigm)
 
 ### Deterministic Game Engine  
 **Experimental Validation of Theoretical Framework**
 
-- **Paper:** [Zenodo](https://doi.org/10.5281/zenodo.17383447)  
+- **Paper:** [Zenodo](https://doi.org/10.5281/zenodo.17383447)
 - **Code:** [GitHub Repository](https://github.com/smartlegionlab/deterministic-game-engine-report)
-
-## Publication Details
-
-- **DOI:** `10.5281/zenodo.17264327`
-- **Published:** October 4, 2025
-- **License:** Creative Commons Attribution 4.0 International
-- **Author:** Alexander Suvorov ([ORCID](https://orcid.org/0009-0006-3427-9611))
 
 ---
 
-## Connect
+## Practical Implementation
 
-- **Website:** https://alexander-suvorov.ru
-- **Email:** smartlegionlab@gmail.com
-- **ORCID:** [0009-0006-3427-9611](https://orcid.org/0009-0006-3427-9611)
+The Local Data Regeneration Paradigm has been implemented in the **Smart Password Ecosystem**:
+
+| Component                                                                                   | Description                | Cross-Platform   |
+|---------------------------------------------------------------------------------------------|----------------------------|------------------|
+| [smartpasslib](https://github.com/smartlegionlab/smartpasslib)                              | Core Python library        | Python           |
+| [smartpasslib-js](https://github.com/smartlegionlab/smartpasslib-js)                        | JavaScript implementation  | JS               |
+| [smartpasslib-kotlin](https://github.com/smartlegionlab/smartpasslib-kotlin)                | Kotlin implementation      | Kotlin           |
+| [smartpasslib-go](https://github.com/smartlegionlab/smartpasslib-go)                        | Go implementation          | Go               |
+| [smartpasslib-csharp](https://github.com/smartlegionlab/smartpasslib-csharp)                | C# implementation          | C#               |
+| [Desktop Manager](https://github.com/smartlegionlab/smart-password-manager-desktop)         | Desktop application        | Linux            |
+| [Desktop Manager (C#)](https://github.com/smartlegionlab/SmartPasswordManagerCsharpDesktop) | Desktop application        | Windows          |
+| [CLI PassMan](https://github.com/smartlegionlab/clipassman)                                 | Console password manager   | Cross-platform   |
+| [CLI PassGen](https://github.com/smartlegionlab/clipassgen)                                 | Console password generator | Cross-platform   |
+| [Web Manager](https://github.com/smartlegionlab/smart-password-manager-web)                 | Web interface              | Any browser      |
+| [Android Manager](https://github.com/smartlegionlab/smart-password-manager-android)         | Mobile application         | Android          |
 
 ---
 
 ## Cross-Platform Compatibility
 
-smartpasslib produces **identical passwords** to:
+The paradigm's practical implementation produces **identical passwords** across all platforms:
 
-| Platform   | Repository                                                                                                                |
-|------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Platform   | Implementation                                                                                                            |
+|------------|---------------------------------------------------------------------------------------------------------------------------|
 | Python     | [smartpasslib](https://github.com/smartlegionlab/smartpasslib)                                                            |
 | JavaScript | [smartpasslib-js](https://github.com/smartlegionlab/smartpasslib-js)                                                      |
 | Kotlin     | [smartpasslib-kotlin](https://github.com/smartlegionlab/smartpasslib-kotlin)                                              |
 | Go         | [smartpasslib-go](https://github.com/smartlegionlab/smartpasslib-go)                                                      |
+| C#         | [smartpasslib-csharp](https://github.com/smartlegionlab/smartpasslib-csharp)                                              |
 | Web        | [Web Manager](https://github.com/smartlegionlab/smart-password-manager-web)                                               |
 | Android    | [Android Manager](https://github.com/smartlegionlab/smart-password-manager-android)                                       |
 | Desktop    | [Desktop Manager](https://github.com/smartlegionlab/smart-password-manager-desktop)                                       |
@@ -101,20 +153,27 @@ smartpasslib produces **identical passwords** to:
 
 ---
 
-## Ecosystem
+- [**Smart Babylon Library**](https://github.com/smartlegionlab/smart-babylon-library) - A deterministic infinite library generator inspired by Borges' "The Library of Babel". Generate unique, deterministic books and pages based on coordinate systems without storing any data.
+- [**Babylonian Image Library**](https://github.com/smartlegionlab/babylonian-image-library) - A deterministic infinite image library generator inspired by Borges' 'The Library of Babel'. Generate unique, deterministic images based on coordinate systems without storing image data.
 
-**Core Libraries:**
-- **[smartpasslib](https://github.com/smartlegionlab/smartpasslib)** - Python implementation
-- **[smartpasslib-js](https://github.com/smartlegionlab/smartpasslib-js)** - JavaScript implementation
-- **[smartpasslib-kotlin](https://github.com/smartlegionlab/smartpasslib-kotlin)** - Kotlin implementation
-- **[smartpasslib-go](https://github.com/smartlegionlab/smartpasslib-go)** - Go implementation
+---
 
-**Applications:**
-- **[Desktop Manager](https://github.com/smartlegionlab/smart-password-manager-desktop)** - Cross-platform desktop app
-- **[CLI PassMan](https://github.com/smartlegionlab/clipassman)** - Console password manager
-- **[CLI PassGen](https://github.com/smartlegionlab/clipassgen)** - Console password generator
-- **[Web Manager](https://github.com/smartlegionlab/smart-password-manager-web)** - Web interface
-- **[Android Manager](https://github.com/smartlegionlab/smart-password-manager-android)** - Mobile Android app
+## Citation
+
+```bibtex
+@misc{suvorov_2025_17264327,
+  author       = {Suvorov, Alexander},
+  title        = {The Local Data Regeneration Paradigm: Ontological
+                   Shift from Data Transmission to Synchronous State
+                   Discovery
+                  },
+  month        = oct,
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17264327},
+  url          = {https://doi.org/10.5281/zenodo.17264327},
+}
+```
 
 ---
 
@@ -130,3 +189,4 @@ Copyright © 2025 Alexander Suvorov. Licensed under Creative Commons Attribution
 ---
 
 *"Sometimes the most efficient communication occurs not through better transmission, but through eliminating the need to transmit."*
+
