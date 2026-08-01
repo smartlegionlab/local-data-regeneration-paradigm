@@ -4,11 +4,21 @@
 
 **Ontological Shift from Data Transmission to Synchronous State Discovery**
 
+Fundamental theoretical work proposing an alternative to classical information transmission, 
+where data is regenerated locally through synchronized computation rather than physically transferred.
+
 ---
 
 ## Abstract
 
-Fundamental theoretical work proposing an alternative to classical information transmission, where data is regenerated locally through synchronized computation rather than physically transferred.
+This work introduces the Local Data Regeneration Paradigm, which challenges the fundamental Shannonian model of 
+information transmission. We propose an ontological shift where data is understood not as objects 
+to be transferred, but as states reached by deterministic systems through synchronous application of shared 
+algorithms to coordinated pointers. Communication is redefined as pointer coordination rather than content transmission. 
+The paradigm is formalized through three foundational postulates, with analysis of 
+applicability domains and fundamental implications for information theory and computer science. 
+This work presents a theoretical framework requiring extensive validation 
+and further research before practical application.
 
 > *Published: October 4, 2025*  
 > *Status: Theoretical Research*
@@ -185,8 +195,4 @@ This research paper and all accompanying documents are licensed under
 ## Copyright
 
 Copyright © 2025 Alexander Suvorov. Licensed under Creative Commons Attribution 4.0 International.
-
----
-
-*"Sometimes the most efficient communication occurs not through better transmission, but through eliminating the need to transmit."*
 
