@@ -63,12 +63,12 @@ and further research before practical application.
 
 ## Download & Access
 
-| Format              | Link                                                                                                                                                               |
-|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 📄 **PDF Download** | [Download from Zenodo](https://zenodo.org/records/17264327/files/suvorov_local_data_regeneration_paradigm.pdf?download=1)                                          |
-| 📖 **Read Online**  | [Zenodo Record](https://doi.org/10.5281/zenodo.17264327)                                                                                                           |
-| 💻 **Source Code**  | [GitHub Repository](https://github.com/smartlegionlab/local-data-regeneration-paradigm)                                                                            |
-| 📰 **Article**      | [dev.to Technical Deep Dive](https://dev.to/smartlegionlab/the-local-data-regeneration-paradigm-ontological-shift-from-data-transmission-to-synchronous-state-21e) |
+| Format              | Link                                                                                                                                                                 |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 📄 **PDF Download** | [Download from Zenodo](https://zenodo.org/records/17264327/files/suvorov-the-local-data-regeneration-paradigm.pdf?download=1)                                        |
+| 📖 **Read Online**  | [Zenodo Record](https://doi.org/10.5281/zenodo.17264327)                                                                                                             |
+| 💻 **Source Code**  | [GitHub Repository](https://github.com/smartlegionlab/local-data-regeneration-paradigm)                                                                              |
+| 📰 **Article**      | [dev.to Technical Deep Dive](https://dev.to/smartlegionlab/the-local-data-regeneration-paradigm-ontological-shift-from-data-transmission-to-synchronous-state-21e)   |
 
 ## Author Information
 
