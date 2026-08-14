@@ -72,13 +72,13 @@ and further research before practical application.
 
 ## Author Information
 
-| Contact     | Information                                                  |
-|-------------|--------------------------------------------------------------|
-| **Name**    | Alexander Suvorov                                            |
-| **Website** | [alexander-suvorov.ru](https://alexander-suvorov.ru)         |
-| **GitHub**  | [smartlegionlab](https://github.com/smartlegionlab)          |
-| **Email**   | smartlegionlab@gmail.com                                     |
-| **ORCID**   | [0009-0006-3427-9611](https://orcid.org/0009-0006-3427-9611) |
+| Contact     | Information                                                    |
+|-------------|----------------------------------------------------------------|
+| **Name**    | Alexander Suvorov                                              |
+| **Website** | [smartlegionlab.ru](https://smartlegionlab.ru)                 |
+| **GitHub**  | [smartlegionlab](https://github.com/smartlegionlab)            |
+| **Email**   | smartlegionlab@gmail.com                                       |
+| **ORCID**   | [0009-0006-3427-9611](https://orcid.org/0009-0006-3427-9611)   |
 
 ---
 
@@ -90,7 +90,7 @@ and further research before practical application.
 | Data Transmission           | Synchronous Local Regeneration |
 | Information Transfer        | Pointer Synchronization        |
 
-### Detailed Postulates
+### Basic Postulates
 
 1. **Data as System State**  
    Information understood as computational state rather than transferable object
